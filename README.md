@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Elvin
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&center=false&vCenter=true&width=435&lines=Frontend+Developer;React+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)
+# <img height="40px" width="40px" src="./assets/react_loader.gif" style="vertical-align: text-top;" /> Hi, I’m Elvin
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&center=false&vCenter=true&width=435&lines=Frontend+Developer;React+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)
 
 I’m a **Frontend Developer** who loves just enjoys what he does.
 I specialize in **React**, with a lots of quirky and new ideas and foundation in modern frontend technologies.
@@ -9,9 +9,9 @@ I specialize in **React**, with a lots of quirky and new ideas and foundation in
 
 ### 🚀 Tech Stack
 
-* 💻 **Languages:** JavaScript, TypeScript, Python, Java, C++, C
-* ⚛️ **Frontend:** React, Redux, Tailwind CSS, Sass
-* 🧩 **Tools & Others:** Git, VS Code, REST APIs, Node.js
+- 💻 **Languages:** JavaScript, TypeScript, Python, Java, C++, C
+- ⚛️ **Frontend:** React, Redux, Tailwind CSS, Sass
+- 🧩 **Tools & Others:** Git, VS Code, REST APIs, Node.js
 <p align="start">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -19,7 +19,6 @@ I specialize in **React**, with a lots of quirky and new ideas and foundation in
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </p>
-
 
 <div align="start">
 
@@ -32,8 +31,7 @@ I specialize in **React**, with a lots of quirky and new ideas and foundation in
 
 ### 📫 Connect With Me
 
-* 💼 [GitHub](https://github.com/M4sayev)
-* 🌐 [linkedIn](https://www.linkedin.com/in/elvin-musayev/)
+- 💼 [GitHub](https://github.com/M4sayev)
+- 🌐 [linkedIn](https://www.linkedin.com/in/elvin-musayev/)
 
 ![](https://komarev.com/ghpvc/?username=M4sayev&color=61dafb&style=flat-square)
-
