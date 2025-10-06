@@ -2,14 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&center=false&vCenter=true&width=435&lines=Frontend+Developer;React+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)
 
-I’m a **Frontend Developer** who loves just enjoys what he does.
+I’m a **Frontend Developer** who just loves and enjoys what he does.
 I specialize in **React**, with a lots of quirky and new ideas and foundation in modern frontend technologies.
 
 ---
 
 ### 🚀 Tech Stack
 
-- 💻 **Languages:** JavaScript, TypeScript, Python, Java, C++, C
+- 💻 **Languages:** JavaScript, TypeScript, Python, Java, C/C++
 - ⚛️ **Frontend:** React, Redux, Tailwind CSS, Sass
 - 🧩 **Tools & Others:** Git, VS Code, REST APIs, Node.js
 <p align="start">
