@@ -1,4 +1,4 @@
-# <img height="40px" width="40px" src="./assets/react_loader.gif" style="vertical-align: text-top;" /> Hi, I’m Elvin
+# <img height="25px" width="25px" src="./assets/react_loader.gif" style="vertical-align: middle;" /> Hi, I’m Elvin
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&center=false&vCenter=true&width=435&lines=Frontend+Developer;React+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)
 
