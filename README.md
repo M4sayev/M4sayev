@@ -31,7 +31,7 @@ I specialize in **React**, with a lots of quirky and new ideas and foundation in
 
 ### 📫 Connect With Me
 
-- 💼 [GitHub](https://github.com/M4sayev)
-- 🌐 [linkedIn](https://www.linkedin.com/in/elvin-musayev/)
+-  [linkedIn](https://www.linkedin.com/in/elvin-musayev/)
+-  [Instagram](https://www.instagram.com/_elvin_musaev_/)
 
 ![](https://komarev.com/ghpvc/?username=M4sayev&color=61dafb&style=flat-square)
