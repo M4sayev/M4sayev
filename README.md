@@ -35,3 +35,32 @@ I specialize in **React**, with a lots of quirky and new ideas and foundation in
 -  [Instagram](https://www.instagram.com/_elvin_musaev_/)
 
 ![](https://komarev.com/ghpvc/?username=M4sayev&color=61dafb&style=flat-square)
+
+### 🌟 Featured Projects
+<table>
+  <tr>
+    --------------------------------------------------------------------------------------------------------------------------------------
+    <td align="center">
+      <a href="https://github.com/M4sayev/ecommerce-app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=M4sayev&repo=ecommerce-app&theme=react" />
+      </a>
+       <br>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge" />
+    </td>
+    <br>
+    <td align="center">
+      <a href="https://github.com/M4sayev/SackHead-Runner">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=M4sayev&repo=SackHead-Runner&theme=react" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Kaplay.js-ff69b4?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+
