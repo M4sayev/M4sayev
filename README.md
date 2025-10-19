@@ -29,20 +29,11 @@ I specialize in **React**, with a lots of quirky and new ideas and foundation in
 
 ---
 
-### 📫 Connect With Me
-
--  [linkedIn](https://www.linkedin.com/in/elvin-musayev/)
--  [Instagram](https://www.instagram.com/_elvin_musaev_/)
-
-![](https://komarev.com/ghpvc/?username=M4sayev&color=61dafb&style=flat-square)
-
 ### 🌟 Featured Projects
 <table>
-  <tr>
-    --------------------------------------------------------------------------------------------------------------------------------------
     <td align="center">
-      <a href="https://github.com/M4sayev/ecommerce-app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=M4sayev&repo=ecommerce-app&theme=react" />
+      <a href="https://github.com/M4sayev/XanButik">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=M4sayev&repo=XanButik&theme=react" />
       </a>
        <br>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -62,5 +53,16 @@ I specialize in **React**, with a lots of quirky and new ideas and foundation in
     </td>
   </tr>
 </table>
+
+---
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvin-musayev/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_elvin_musaev_/)
+
+Feel free to reach out — I love connecting with other developers and sharing ideas! 🚀
+
+![](https://komarev.com/ghpvc/?username=M4sayev&color=61dafb&style=flat-square)
 
 
