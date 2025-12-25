@@ -16,25 +16,6 @@ I specialize in **Web Development**, with lots of quirky and new ideas and found
 
 ---
 
-### 🌟 Featured Projects
-<div align="start">
-
-  <div>
-    <a href="https://github.com/M4sayev/XanButik">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=M4sayev&repo=XanButik&theme=react" />
-    </a>
-  </div>
-  <br>
-  <div >
-    <a href="https://github.com/M4sayev/car-rental-system">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=M4sayev&repo=car-rental-system&theme=react" />
-    </a>
-  </div>
-</div>
-
-
----
-
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvin-musayev/)
