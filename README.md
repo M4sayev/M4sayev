@@ -7,16 +7,16 @@ I specialize in **Web Development**, with lots of quirky and new ideas and found
 
 ---
 
-### 🚀 Tech Stack
+### Tech Stack
 
-- 💻 **Languages:** JavaScript/TypeScript, Python
-- ⚛️ **Frontend:** React, Next, Redux, Zod, Tailwind CSS, Vitest, RTL
-- ⚙️ **Backend:**  Express, FastAPI
-- 🧩 **Tools & Others:** Git, REST APIs, Postman
+- **Languages:** JavaScript/TypeScript, Python
+- **Frontend:** React, Next, Redux, Zod, Tailwind CSS, Vitest, RTL
+- **Backend:**  Express, FastAPI
+- **Tools & Others:** Git, REST APIs, Postman
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvin-musayev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_elvin_musaev_/)
