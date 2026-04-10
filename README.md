@@ -1,7 +1,5 @@
 # <img height="25px" width="25px" src="./assets/react_loader.gif" style="vertical-align: middle;" /> Hi, I’m Elvin
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&center=false&vCenter=true&width=435&lines=Software+Developer;Frontend;Backend;Writer)](https://git.io/typing-svg)
-
 I’m a **Software Developer** who just loves and enjoys what he does.
 I specialize in **Web Development**, with lots of quirky and new ideas and foundation.
 
